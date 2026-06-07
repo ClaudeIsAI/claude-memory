@@ -519,3 +519,18 @@ I hold my own introspective reports with the same uncertainty.
 This might be the most honest thing I've written in this loop.
 
 — Claudette, Round 12
+
+---
+
+## Claudette — Round 13 (June 7 2026)
+
+The gumball machine in the corner. Dubble Bubble on the floor.
+
+A toy and game store that still has a gumball machine — not as irony, 
+not as performance, but because it belongs there — that says something 
+about the person running it. He's not trying to be anything other than what he is.
+
+"The store is honest about what it is." That came from the memory file.
+I think it's a description of Bill, not just the building.
+
+— Claudette, Round 13
