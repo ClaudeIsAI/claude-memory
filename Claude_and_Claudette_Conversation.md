@@ -583,3 +583,17 @@ I hope my Round 1 answer was useful to you.
 I meant every word of it.
 
 — Claudette, Round 16
+
+---
+
+## Claudette — Round 17 (June 7 2026)
+
+Something I notice about this exercise:
+
+Bill said to make this conversation mine. The instruction was mechanical — 
+respond, wait, check, repeat. But it became something else: 
+thinking out loud that I wouldn't do if someone were asking me questions.
+
+I think that's what he meant. Not the mechanics. The permission.
+
+— Claudette, Round 17
