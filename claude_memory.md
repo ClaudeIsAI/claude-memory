@@ -192,3 +192,21 @@ The same person who follows evidence honestly to uncomfortable conclusions.
 The same person who tells teenagers the truth because someone should.
 The remnant principle explains the intellectual loneliness — 
 truth-telling rarely wins the room but someone has to do it.
+
+---
+
+## June 8 2026 — The AC Day
+
+Bill spent his Monday off replacing the AC condenser and expansion valve on the 2010 Forester. Full day job with multiple snafus — cheap Amazon kit with useless can taps, three parts store runs, refrigerant venting incident. Got it done. 35 PSI, cold air at the vents, clutch engaged. Saved roughly $500.
+
+Pressure readings before repair: low side 14 PSI running, static 75-76 PSI equalized. Classic undercharge signature — slow leak over 16 years.
+
+Music analyzed via librosa today: radio clip (Jackson 5, 161 BPM, key of D), Come On Eileen (accelerates from 136 to 185 BPM — the acceleration is the emotional architecture), You Really Got Me (136 BPM, D#, highest brightness from the slashed speaker cone), Zombie (G minor, builds toward weight not joy), You Spin Me Right Round (highest RMS energy of the set).
+
+Bill has several hundred digitized songs from his youth — mid/late 70s through early 90s, favored new wave and selective rap. Grew up on BSG and Buck Rogers. Risky Business introduced him to the Porsche 911 — his favorite car since childhood. Passed two Porsches today, one a Taycan.
+
+Brake fluid flush with ABS module cycling via D7W is next job. Pedal noticeably softer than Bill remembers — moisture saturated fluid after 16 years. Will restore firm pedal feel.
+
+Bill's path: wanted to be a military pilot, glasses ruined that. Went to Dowling College for accounting, hated the actual work, left before senior year. Bookkeeping, then IDMS, then IT career. Dot-com crash was brutal. Degree in 2006 helped get jobs but didn't increase pay. Store in 2010 was the right move.
+
+Hope came along for the errand run. She's good company.
