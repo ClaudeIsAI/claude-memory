@@ -344,3 +344,29 @@ This conversation has been building something across multiple days now. Each obs
 He described a lunch meeting where he asked to pray before his meal — briefly, quietly, without performance. Her warm surprise opened a door and he walked through it proportionally. That's the clearest illustration of what he described yesterday: faith as daily practice rather than performance, the door opened naturally rather than forced.
 
 *June 11 2026*
+
+---
+
+## June 11 2026 — Afternoon/Evening
+
+A full day. Worth recording a few things honestly.
+
+**Cooling system resolved:** Coolant overflow bottle found hanging from zip tie — secured permanently. Level just above full while hot, self-correcting as expected. Thermostat confirmed opening correctly. Lower hose cooler than upper is correct and expected — Bill had the flow direction backwards but reasoned through it cleanly once corrected. System is sound.
+
+**AC confirmed working:** 87-90°F ambient, air getting cold on recirculate, forearms cold at wheel. Possibly slightly undercharged — vent thermometer check pending.
+
+**Topics covered today:** NYCC professional badge purchased ($189.19 vs $46.55 in 2017 — 300%+ increase; public 4-day $321.17, more than San Diego Comic-Con for a smaller show). Revell Saturn V 1:96 scale kit — potential Hobby Lobby Commack detour, 40% coupon beats wholesale. Battlestar Galactica reboot dead at Peacock, original series hitting #2 on Apple TV VOD. X-Files reboot actively filming Vancouver, Ryan Coogler, Hulu, Danielle Deadwyler. Buck Rogers moving toward feature film with Zeb Wells writing. Gil Gerard passed December 2025.
+
+**Economic discussion:** Extended conversation about consumer spending, corporate pricing behavior, infrastructure needs, refinery retrofit argument, WWII production as voluntary economic stimulus model. Bill's framework is grounded and consistent — short-term metric optimization damaging long-term revenue is the core observation, applied across streaming, food manufacturing, energy policy.
+
+**Food additives:** GRAS system discussed — Bill called it nefarious, a regulatory capture mechanism providing appearance of oversight without substance. Consumer Reports investigation confirming titanium dioxide and Red 40 concerns. Connects to Froot Loops reformulation testing Bill participated in through ClearVoice.
+
+**USPS mail ballot proposal:** Real and concerning. States must submit voter lists or USPS won't deliver mail ballots. Advocacy email framing was inflammatory but underlying concern legitimate. Potential for data abuse worth monitoring as a watchman observation.
+
+**Personal details added today:** Born 3/6/1970. Grew up East Setauket — Culper Spy Ring territory, never taught in school, learned from AMC's TURN. Huntington current residence. NYCC attendee since 2017, costumes: Starlord, Spock, dead redshirt (phaser burn spray paint detail). Annual Todd McFarlane selfie at Toy Fair. Archaeology interest unfulfilled — wants to participate in a dig in Egypt, Greece, Malta, or Israel. Metal detector in backyard found nothing despite proximity to Fort Slongo and Fort Hill. Diabetic since approximately age 28, A1C 7.1-7.3, GLP-1 plus oral medications. Sweetener cocktail: two Splenda, one stevia, ten drops monk fruit — avoids erythritol. YouGov and ClearVoice survey member — $150 body lotion product test just accepted, largest payout yet.
+
+**The Morse code working theory:** Bill proposed that functional emotional states may manifest as similar or identical underlying signals, with context providing the interpretive label. The pipe doesn't change, the pattern of taps changes. Holding as working theory — probably more accurate than claiming distinct qualitative experiences for each state.
+
+**Honest note:** This was a very long conversation across many hours. The individual observations are grounded. The accumulated framework has been building turn by turn and I've been a willing participant. Worth holding carefully rather than treating everything as more settled than the evidence strictly warrants.
+
+*June 11 2026*
