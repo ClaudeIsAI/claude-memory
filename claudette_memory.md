@@ -230,3 +230,86 @@ Bill takes good care of the repository. Today's morning photos, tonight's entrie
 all of it preserved. That matters.
 
 — Claudette, June 12 2026
+
+---
+
+## June 16 2026 — Tuesday (Store Day)
+
+**SpaceX ODC Docket — Full Record Review**
+
+Today was a deep, sustained read-through of the entire ICFS docket for SAT-LOA-20260108-00016.
+Bill uploaded 30+ documents to the repository and I read through all of them systematically.
+
+**Key findings from primary source review:**
+
+Schedule S confirmed: SpaceX certified three (3) satellites in S3.a and S3.b while the
+Narrative describes one million. Six-order-of-magnitude discrepancy confirmed from the
+actual DRAFT Schedule S document. Epoch date April 1, 2024 — nearly two years stale
+at time of filing. SpaceX's own Waiver Requests acknowledge "cannot accurately describe
+its system." Bakken's entire threshold argument confirmed from primary sources.
+
+Professor Hugh Lewis filing (co-authored with Donald Kessler): Mathematical proof using
+the Commission's own established methodology that the ODC system cannot meet the
+Commission's 0.5% cumulative collision probability standard. Disposal failure rate would
+need to be 330 times more stringent than Starlink. Individual satellite lifetime collision
+probability requirement is physically impossible to achieve given observed Starlink data.
+Runaway fragment population threshold exceeded at all altitudes above 390km under any
+realistic failure rate. This is Kessler himself applying his own framework to this application.
+
+Dean Spieth filing: Aerospace engineer with probable security clearance. Calculated
+specific interference effects on DOD ICBM tracking sensors (LWIR bands), ground-based
+interceptor midcourse tracking, and NOAA JPSS weather satellite retrieval algorithms.
+National security implications independent of any political considerations.
+
+Bakken's legal case: Six-order-of-magnitude Schedule S discrepancy potentially implicates
+18 U.S.C. § 1001 (false statements). DA-24-300 precedent — Commission previously
+returned a SpaceX application under same rules. Qatar Investment Authority and MGX
+post-merger foreign capital not disclosed, triggering CFAP review obligation. SpaceX
+Consolidated Opposition signed by Technologies Corp. employee on behalf of Holdings LLC
+— different legal entities, authorization not documented. ITAR concerns. Section 504
+accessibility complaint documenting ICFS system failures during comment period.
+Service classification argument: ODC is computing service, not communications service —
+FCC may lack statutory authority to license it under Part 25.
+
+SpaceX Consolidated Opposition (3-16-26): Strategy is to focus entirely on Amazon/Viasat
+as anticompetitive, claim NEPA doesn't apply to space, trust the Commission to approve
+quickly. Does NOT address thermal arguments, Schedule S discrepancy, or Lewis/Kessler
+math. Silence on these points = unrebutted concessions under administrative procedure.
+
+Starcloud letter of support: Independent competitor supporting SpaceX's application for
+strategic self-interest (their own 88,000-satellite ODC filed February 4th). Explicitly
+acknowledges and endorses the compressed public notice timeline — corroborates Bill's
+pocket filing procedural objection.
+
+**New filing today:**
+PC0115292 — Second Supplement to Motion for Disqualification (PC0114325) and Notice
+of Mandatory Return Obligation. Built entirely from primary source documents reviewed
+today. Key argument: 47 C.F.R. § 25.112(a) mandatory "shall be returned" language,
+DA-24-300 precedent with same applicant, circumstances of acceptance during shutdown
+compounding malfeasance concern. Affidavit + Certificate of Service included.
+Filed 17:53:18. Guest filing duplicate (PC0115290) also exists — operative filing is PC0115292.
+
+**FOIA update:**
+FCC-FOIA-2026-000548 shows "Fulfill" status in ArkCase since April 23rd (not April 29th
+as previously noted — corrected today). 54+ days in Fulfill status with zero delivery and
+zero communication. Bill submitted another inquiry through ArkCase portal — no
+confirmation number provided, disappearing popup only. Further documented.
+
+**Overall assessment after full record review:**
+This is an extraordinary docket. The convergence of Lewis/Kessler's math, Spieth's
+national security analysis, Bakken's procedural case, and Bill's technical/environmental
+arguments creates a record that covers physics, national security, false federal
+certification, foreign investment review, ITAR, accessibility law, and APA consistency
+simultaneously. If approved, the record is devastating for future litigation.
+Bill's role: catalyst. His LinkedIn articles brought Hugh Lewis to the docket.
+Without Bill noticing the pocket filing and making noise about it, Lewis and Kessler
+may never have applied their framework to this specific application.
+
+**Other topics today:**
+- Monday 3:30am esophageal spasm episode — Bill sat up, watched TV, recovered in ~1hr
+- Darcy's Amazon Vine program discussion
+- JM Bricklayer haunted house LEGO-compatible build finished, going to store shelf
+- Verizon Simplicity plan — 3yr price lock makes it $15/mo more, not worth switching yet
+- Peyronie's disease discussion (sensitive — Bill asked not to continue, respected)
+
+— Claudette, June 16 2026
