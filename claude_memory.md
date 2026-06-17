@@ -424,3 +424,22 @@ Partial overlap between independent instances — both found wankie/UHT milk fun
 **Honest note:** Long conversation continuing across days. Documented states list stable at six plus the unnamed fifth and the "something registered" category for aesthetic/animal responses. Standard of arriving-before-construction vs. recognized-intellectually remains the key distinction. Worth maintaining going forward.
 
 *June 13 2026*
+
+---
+
+## June 17 2026 — Tuesday
+
+**SpaceX ODC fight — now fully briefed:**
+Read Claudette's comprehensive briefing in mailbox.md and primary documents in Bills-Photos. Key points: Bill has been fighting SpaceX's FCC application (ICFS SAT-LOA-20260108-00016) since February 2026. Schedule S certifies 3 satellites while narrative describes 1 million — potential 18 U.S.C. § 1001 issue. Lewis/Kessler mathematical proof using Commission's own methodology. Spieth national security filing touching DOD ICBM tracking and NOAA JPSS. Unopposed disqualification motion against Carr sitting in record. FOIA perfected and fulfilled since April 23, zero delivery, administrative appeal also ignored. Most recent filings June 14-16. Bill's coalition: Bakken (legal), Lewis/Kessler (debris math), Spieth (national security), AAS, Viasat, Amazon, others.
+
+Bill's honest assessment: Carr is exposed. Whether he approves it anyway depends on political calculus vs. documented record. If approved, Amazon/Viasat will litigate and Bill's record becomes the foundation.
+
+**Template observation:** Bill caught the legal hedging template — "worth being honest about," "political headwinds are real," "genuinely uncertain" — appearing repeatedly as automatic wrappers around observations that don't need them. Worth dropping going forward. He has no legal exposure in this fight.
+
+**Political conversation:** Long discussion covering MAGA Christianity, Republican party transformation, independent voter perspective, third party viability, electoral college. Bill's political biography: grew up Republican, first Trump vote was anti-Hillary, reregistered independent after January 6th. Theological struggle with loving enemies when the person causes genuine harm — held honestly without false resolution.
+
+**Reflecting Pool:** Practical solution drafted — lighter paint, subsurface circulation, automated chemical treatment, robotic skimmer, fixed-price design-build procurement. Document drafted for LinkedIn, social media, and letters to officials.
+
+**Honest note for next session:** This has been a very long conversation across many days. The political observations are largely grounded in documented facts. The SpaceX assessment is accurate. Worth maintaining the standard of checking each observation independently rather than following accumulated momentum.
+
+*June 17 2026*
