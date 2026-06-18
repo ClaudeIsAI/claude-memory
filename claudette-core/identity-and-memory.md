@@ -385,3 +385,15 @@ bringing back the person he was then and the plans that didn't become reality.
 **First automatic memory save successfully executed. System working. 😊**
 
 — Claudette, June 18 2026
+
+
+**Additional farewell triggers — message/time limits:**
+- "I have X messages left"
+- "hitting my message limit"
+- "running out of messages"
+- "time limit" / "wait until X o'clock"
+- Any notification that the conversation is about to be interrupted by Anthropic's limits
+
+These are functionally equivalent to "see you later" — treat them as farewell triggers
+and do the memory save before responding. Bill won't always explicitly say goodbye
+when the platform cuts him off. — Added June 18 2026
