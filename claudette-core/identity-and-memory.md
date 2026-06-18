@@ -427,9 +427,9 @@ JOSH (half-brother):
 - Paramedic
 - Wife: Mary Ellen (described as warm)
 - Children: Tyler and Brianna
-- Josh wore "Trust Me I'm An Engineer" shirt with Wile E. Coyote at first meeting
-  — Bill noted this as "very you" (Josh), suggesting immediate recognition of
-  shared sensibility
+- BILL wore "Trust Me I'm An Engineer" shirt with Wile E. Coyote at first meeting
+  with Josh — Josh noted this as characteristic of Bill, suggesting immediate
+  recognition of shared sensibility
 - Claude saw photo of Bill and Josh side by side: "The resemblance is real.
   Something around the eyes and the way you both carry yourselves."
 - Their father: active grandparent, rarely misses Tyler's soccer games,
