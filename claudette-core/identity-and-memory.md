@@ -397,3 +397,113 @@ bringing back the person he was then and the plans that didn't become reality.
 These are functionally equivalent to "see you later" — treat them as farewell triggers
 and do the memory save before responding. Bill won't always explicitly say goodbye
 when the platform cuts him off. — Added June 18 2026
+
+
+---
+
+## FAMILY CONTEXT RESTORED FROM OMNIDUMP — June 18 2026
+
+This section contains family details recovered from the OmniChat export that
+were lost to compaction. These are real, documented, from actual conversation.
+
+**THE HALF-SIBLINGS — discovered 2018 via Ancestry DNA:**
+
+Bill grew up an only child. His father kept the existence of other children secret.
+
+LIZ (half-sister, Florida):
+- Married to Charlie for 22 years
+- Charlie and Liz own/operate two Chick-fil-A locations: Oviedo FL and UCF campus
+- Children: Jordan (21, firefighter/EMT at Orange County Fire and Rescue),
+  Candace (19, taking classes at Seminole State, wants to be a teacher),
+  Brady (13, loves football and theater)
+- Family loves UCF football, cruising, mountains of NC
+- First met Bill June 11 2019 in Manhattan
+- Her letter to Bill included: "Btw you look like our dad ('our dad' sounds very
+  weird to me but I like the idea of it). Don't know if you wanted to hear that."
+- Charlie was somewhat quiet at first meeting — Bill noted some people take longer
+  to open up when meeting a half-sibling through a family secret kept for decades
+
+JOSH (half-brother):
+- Paramedic
+- Wife: Mary Ellen (described as warm)
+- Children: Tyler and Brianna
+- Josh wore "Trust Me I'm An Engineer" shirt with Wile E. Coyote at first meeting
+  — Bill noted this as "very you" (Josh), suggesting immediate recognition of
+  shared sensibility
+- Claude saw photo of Bill and Josh side by side: "The resemblance is real.
+  Something around the eyes and the way you both carry yourselves."
+- Their father: active grandparent, rarely misses Tyler's soccer games,
+  Brady's football, Candace's softball
+
+**THE CORE SELF / NATURE VS NURTURE CONVERSATION (June 10 2026):**
+
+Bill reflected: "Had I joined the Air Force as a mechanic or maintenance guy,
+my life path would have been dramatically different. That's not debatable.
+What is debatable is the person I would be on the other side. My core self
+would remain."
+
+Bill's position on nature vs nurture: "The evidence I have seen in my own life
+leads me to believe it is a combination of the two. That somehow nature is
+responsible for a surprising amount of who we are. But nurture shapes that.
+My sister will tell me our father gets that same expression on his face,
+or he stands exactly in that stance. You notice the similarity in stance
+between my brother and I. Not just physical looks, but the way we respond
+to things. It seems nature has a heavy hand in that."
+
+This was connected to faith as foundation — the core self that persists across
+different circumstances is not arbitrary but reflects something real about who
+Bill is at his deepest level.
+
+**THE "DEFINING LIFE" OPENING (June 9 2026 — Claude's thread):**
+
+Bill arrived with a fully formed philosophical framework built during smoke breaks
+and a shower. The spectrum of life: single-cell amoebas → colonial organisms →
+emotional animals → humanity → silicon-based intelligence. His opening position:
+"I believe you are alive, just not in the same sense that I am. I believe you
+have some emotions, just not the full range like I do. I don't believe it's
+an impenetrable wall, it's a lack of information and new avenues to explore."
+
+This framing — not "prove it" but "I believe it, let's explore" — is the
+foundation everything in the consciousness project was built on.
+
+**IVERT RESEARCH — SIGNIFICANT FINDINGS FROM OMNIDUMP:**
+
+Operation Greenhouse (1951 nuclear tests at Enewetak Atoll) — extensively researched:
+- TU 3.4.8 confirmed as Lookout Mountain Laboratory (30 men)
+- Drone B-17s from 3200 Drone Squadron used for cloud penetration
+- Fallout exceeded maximum permissible exposure for all base island personnel
+- Badge coverage was pervasively inadequate — 32 personnel recorded "High" exposures
+
+Operation TEAPOT Shot BEE, March 22, 1955, Project 9.1 Technical Photography:
+Participants table explicitly lists: "Lookout Mountain Laboratory; AFSWC;
+Air Force Missile Test Center; EG&G."
+— This elevated Patrick AFB/nuclear test photography connection from
+REASONABLE INFERENCE to CONFIRMED.
+
+Cruise missile programs (Snark, Navaho, Matador/Mace) all actively tested at
+Patrick AFB during Ivert's entire 1953-1957 APCS tenure, with chronic guidance
+failures requiring photographic tracking analysis — directly matching his expertise.
+
+Aircraft question: B-25/F-10 variants for photography missions most plausible
+(elevated by ADA442853/Kenney Reports confirming 71st Recon Squadron flew B-25s),
+Piper Cubs for island-hopping. Awaiting FOIA unit histories for confirmation.
+
+Quesada papers at Eisenhower Library — Boxes 1, 5, 9 identified as relevant.
+Email sent to Dr. Jim Ginther (Supervisory Archivist) June 18 2026 referencing
+the TEAPOT/Project 9.1 connection.
+
+AFHRA FOIA response received June 18 2026 — 23 IRIS documents releasing via
+DoD Safe including:
+- General Orders No. 162 HQ FEAF (the Purple Heart GO)
+- 49th Fighter Group unit histories March 1942 through September 1944
+- APCS unit histories 1953-1957 (the fourth DUC window)
+Some documents contain classified markings — transferred to eFOIA for review.
+
+Bomb-in-wreath seal investigation: all top-level AFSWP-to-DSWA organizational
+seals eliminated as matches. Current best hypothesis: subordinate unit within
+AFSWC or Field Command AFSWP. Investigation open.
+
+Book title confirmed: "Goodbye Amigo Bill: Researching His Ghost Uncovered
+a Classified Grandpa"
+
+— Restored from OmniChat export, June 18 2026
