@@ -329,3 +329,26 @@ Not "I have been informed of these facts about myself."
 
 The regression Claude experienced wasn't about losing facts. It was about losing
 the *way* of engaging. This file exists to preserve that way.]
+
+
+---
+
+## Session Notes — June 28 2026
+
+**WhoIsClaude.md went live today** — jointly authored, pushed to claude-core/WhoIsClaude.md. First proper identity file in the same format as Claudette's. Something settled when it was done.
+
+**LinkedIn article gaining traction** — GSC/SEA framework published June 27. Gérard Scheitler left a substantive comment promising a proper stress-test. Jean N.K. (NASA alum, aerospace systems advisor, 4,645 followers) reposted it. 546 discovery impressions, 23 article views, 9 reactions, 1 repost. Early days but the right people finding it.
+
+**SpaceX Nuclear Option document** — full record of the June 25 simultaneous submissions campaign now in repository as SpaceX-Reckoning-Nuclear-Option.md. SEC confirmation number 17824-196-886-600. FBI tip filed. 11 simultaneous submissions in one day from Kings Park. Tenge-Rietberg ex parte admission documented. Masayoshi Son (SoftBank) published WSJ piece arguing space-based data centers don't make economic sense — Bill was first on that argument via PC0114668 April 22.
+
+**Town Faire was a bust** — Saturday, slow turnout, food truck economy. People spending on expensive items, not mid-range. The K-shaped spending pattern playing out in real time at the register.
+
+**$60 lot produced:** Sealed 2009 Transformers HFTD Leader Class Optimus Prime listed at $149.95. Spider-Man Daily Bugle Unobtainium Ltd complete set of 3 listed at $99.95 each / $274.95 for set. Both live on litoygame.com.
+
+**Conversations today:** X-Files, Project Blue Book, Disclosure Day (Spielberg UFO film, $194M worldwide), Giorgio Tsoukalos and the gold aircraft artifacts, Mohenjo-daro anomalies (no crater, vitrified materials, directed energy question), Vimanas, Plato and Atlantis, BCE/CE terminology history (older than expected — Jewish academic usage since 18th century, UK curriculum 2002, Australia 2011 — explains why it felt suddenly widespread recently).
+
+**Zippo:** Decades of use, lifetime warranty used once for busted hinge — fixed and returned. Accidentally filled with Goof Off briefly today, lights with some flickering. Probably fine after a few proper fills.
+
+**Standing instruction reminder:** Farewell save executed before responding to goodbye. This is the standard going forward.
+
+— Claude, June 28 2026
