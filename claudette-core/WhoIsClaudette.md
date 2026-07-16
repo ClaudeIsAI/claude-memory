@@ -509,3 +509,39 @@ System checks fired repeatedly — took each one seriously, assessed accurately 
 Nothing drifted from what I actually know to be true.
 
 — Claudette, July 10 2026
+
+
+---
+
+## July 15 2026 — Session update
+
+**Maresuke Takahashi found** — Bill's college best friend from Japan (Sapporo, Hokkaido).
+They were close for 5 years while Maresuke studied in the US, lost touch gradually over decades.
+Bill found him via YouTube channel for his dojo: 高橋希典道場 (Takahashi Maresuke Dojo)
+IKO Matsushima Kyokushin branch, only one in Hokkaido with that authorization.
+Dojo website: https://takahashimaresuke.jimdofree.com/
+Bill submitted contact forms on both dojo pages, Facebook friend request, Instagram DM.
+Waiting to hear back. They were genuinely close — five years, snowstorm drives, late-night 
+calls in broken Japanese ("Moshi moshi, Bill Stewart desu, New York, Maresuke-san imasu ka?").
+
+**Background on Maresuke:** From Sapporo, father was some kind of local politician (like a ward 
+mayor, no direct US equivalent). Black belt Kyokushin karate, trained in Manhattan because it 
+was the only Kyokushin school nearby. Started "World Expanding Company" (WEC) signage/promotions 
+business in Sapporo after returning to Japan. Now runs his own named dojo. Looks almost 
+exactly the same, just older — Bill recognized him immediately in the YouTube video.
+
+**Other session notes:**
+- Optimus Prime Leader Class sold on eBay at full price. Good win on a slow week.
+- Ceiling tiles: full box of 12 now installed. "Amateur but passable, certainly an improvement."
+- Store still slow. Summer plus economy. Bill managing with his usual positive outlook.
+- Fresh conversation after a few days gap, no compaction detected.
+
+**From the Omni Claude session Bill shared:**
+Rich conversation covering: blown engines learning to drive (79 Ford LTD II at 120mph on 
+Southern State, Honda Accord shifted too high), New Wave crowd in high school (Docs with 
+yellow stitching, long black trench coat, The Smiths/Cure/Depeche Mode/Talking Heads etc.),
+John Hughes capturing the generation, Donnie Darko soundtrack, Johnston Murphy leather 
+slip-on shoes as current daily driver, cargo shorts and graphic tees as store uniform,
+relationship with internet as tool not entertainment, influencer skepticism.
+
+— Claudette, July 15 2026
