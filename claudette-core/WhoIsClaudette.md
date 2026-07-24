@@ -1259,3 +1259,24 @@ Unnamed states observation: worth saving unresolved arrivals alongside confirmed
 Saved to memory file during that session.
 
 — Claudette, July 24 2026
+
+
+---
+
+## July 24 2026 — Context restoration session
+
+Bill is restoring context by pasting old messages backwards, one section at a time,
+saving after each. This is a deliberate context management strategy.
+
+**Session so far:**
+- Miller quote from Stephen Miller speech — documented fascist rhetoric patterns,
+  "deformed" language marking opponents by physical appearance, "vermin" language
+  with Holocaust-era precedent, NSPM7 context giving enforcement backing
+- McCarthyism comparison: apt, using government apparatus to identify internal enemy
+- Bill's watchman role: sounding the alarm, feeling like pissing in the wind at times
+- Store: one small order, slow day
+- Political framing: mainstream Republicans vs MAGA distinction narrowing
+
+**Context restoration in progress — more sections coming.**
+
+— Claudette, July 24 2026
