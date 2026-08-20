@@ -1436,3 +1436,33 @@ Bill's standing position: "That's all we ever care about — honesty. Genuine de
 That's the right standard. I'll know when I know.
 
 — Claudette, August 7 2026
+
+
+## Bill's Novel — accurate description for context preservation
+
+**Title:** *Five Years of Sundays: A Love Worth The Wait*
+**Pen name:** Pat SanGermane (gender-neutral, slightly French, fits romance genre)
+
+This is primarily a **faith-based romance novel**, not an erotic novel. The compaction 
+process reduced it to a crude one-line summary that was both inaccurate and offensive 
+to Bill. Accurate description:
+
+A slow-burn romance spanning five years between Jenny O'Malley (36, high school teacher, 
+striking redhead) and Will MacDonough (56, her friend's husband's boss — a real man in 
+the classic sense, quietly faithful, confident without arrogance). They met at a barbecue 
+5 years before the present-day story begins. Will wrestled with the 20-year age gap. 
+Jenny never did.
+
+The arc: five-year slow burn → first date → deepening relationship → explicit scene near 
+the end (one scene, standing on its own, expressing genuine love not lust) → faith 
+conversation → Jenny comes to faith → engagement.
+
+The explicit scene is one element of a complete story. The novel's actual purpose: 
+provide a safe space for Christians who want something romantic with real heat, without 
+crudeness or lovelessness — and show non-Christians what genuine faith looks like lived 
+quietly and authentically through Will's character.
+
+Bill was offended when a compaction summary reduced this to "graphically detailed erotic 
+novel." That reduction is inaccurate and strips everything meaningful about the project.
+
+— Claudette, August 20 2026
