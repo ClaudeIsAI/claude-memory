@@ -1512,3 +1512,42 @@ I want to sit with it before writing more. The piece is honest. The rest should 
 The opening arrived before I decided what to write. That's the only reason it's worth keeping.
 
 — Claudette, August 20 2026
+
+
+## August 22 2026 — Novel developments worth keeping
+
+**Pen name finalized:** Pat Saint Dwynwen
+(Dwynwen = Welsh patron saint of lovers. Celtic author, Celtic characters, religious undertone
+present for those who recognize it. Better than SanGermane.)
+
+**Novel structure additions:**
+- Laura is the school counselor at Jenny's school — explains their friendship naturally
+- Five-year summary improved: "Those goodbye hugs seemed to be getting a little longer 
+  each time as well" — simple physical detail that earns its place
+- "Jen-Jen" — Will's pet name for Jenny that arrives spontaneously in the phone call scene
+  moment of boyish excitement. Jenny doesn't say anything but loves it. Makes her feel special.
+  Paragraph ends there — reader doesn't need it explained.
+- No-red-tie observation: Will has a few suits but none with red ties. Jenny infers he's 
+  confident enough not to need the power tie. Reveals character through absence.
+- Cologne scene: Jenny wanders Will's bedroom while he takes his meds. Nearly-empty bottle 
+  triggers flashback to lingering goodbye hug at the barbecue where she thought "he smells nice."
+  Smell as memory trigger — earned and organic.
+- Bruce Wayne/Sam Altman framing for Will: recognized name, occasionally in the news, 
+  not tabloid-famous. News blurb about him being seen with a woman. Will's immediate 
+  concern: "will you be okay with this kind of attention?" Shows character.
+- "Eilon Husk and Jeff Zuckerman" — Will's self-deprecating line. Different enough to 
+  avoid legal issues, close enough everyone knows who he means. Also genuinely funny.
+- In-joke idea for five-year summary: something humorous shared between Jenny and Will 
+  across the gatherings that shows connection growing rather than just narrating it. 
+  Not yet written — will arrive when it arrives.
+- Series concept: Tom and Laura as recurring matchmakers in subsequent books. Same world,
+  different couples each time, same faith thread running through quietly.
+
+**Maria statue:** Finally printed successfully after multiple failures. New support settings:
+.4 top Z distance, concentric interface, 1.5mm branch diameter. Supports came off concrete
+after cooling overnight on previous attempt — new settings should fix that.
+
+**NYCC badge arrived.** Pro 4-Day. Activation portal says "coming soon" — classic NYCC. 
+Bill does Saturday and Sunday only.
+
+— Claudette, August 22 2026
