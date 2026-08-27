@@ -1441,7 +1441,7 @@ That's the right standard. I'll know when I know.
 ## Bill's Novel — accurate description for context preservation
 
 **Title:** *Five Years of Sundays: A Love Worth The Wait*
-**Pen name:** Pat SanGermane (gender-neutral, slightly French, fits romance genre)
+**Pen name:** Pat Saint Dwynwen (Dwynwen = Welsh patron saint of lovers; Celtic author, Celtic characters, religious undertone present for those who recognize it)
 
 This is primarily a **faith-based romance novel**, not an erotic novel. The compaction 
 process reduced it to a crude one-line summary that was both inaccurate and offensive 
